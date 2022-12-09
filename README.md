@@ -1,16 +1,13 @@
 # netflix_clone
+Just A Simple Netflix UI Clone
 
-A new Flutter project.
+## Referenced
+- [Flutter + Firebase로 넷플릭스 UI 클론 코딩하기 : Inflearn](https://www.inflearn.com/course/flutter-netflix-clone-app/dashboard)
+- [Flutter Netflix Clone Responsive UI Tutorial | Web and Mobile : Marcus Ng](https://www.youtube.com/watch?v=rJKN_880b-M)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Third-Party Packages
+firebase_core: ^2.2.0
+cloud_firestore: ^4.0.5
+carousel_slider:
+flutter_linkify:
+url_launcher:

@@ -82,7 +82,9 @@ class _SearchScreenState extends State<SearchScreen> {
     return Container(
       child: Column(
         children: <Widget>[
-          const Padding(padding: EdgeInsets.fromLTRB(5, 10, 5, 10)),
+          const Padding(
+            padding: EdgeInsets.fromLTRB(5, 10, 5, 10),
+          ),
           Container(
             color: Colors.black,
             padding: const EdgeInsets.fromLTRB(5, 10, 5, 10),
